@@ -1,0 +1,13 @@
+* {
+    color: antiqueWhite;
+    font-family: 'OpenDyslexic', sans-serif;
+}
+html {
+    background-color: black;
+}
+body {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: rgba(57, 1, 1, 0.834);
+    padding: 30px;
+}
