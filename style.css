@@ -6,14 +6,30 @@ html {
     background-color: black;
 }
 body {
-    max-width: 800px;
+    max-width: 900px;
     margin: 40px auto;
     background-color: rgba(57, 1, 1, 0.834);
     padding: 30px;
+    font-size: 20px;
 }
 p {
     margin-bottom: 1em;
 }
 h1 {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+}
+h2 {
+    text-decoration: overline;
+    margin-bottom: 0;
+    font-weight: normal;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin-bottom: 10px;
+}
+li strong {
+    display: block;
+    margin-bottom: 5px;
 }
