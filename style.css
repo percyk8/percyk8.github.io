@@ -33,3 +33,9 @@ li strong {
     display: block;
     margin-bottom: 5px;
 }
+
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
