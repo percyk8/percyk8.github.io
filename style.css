@@ -55,6 +55,66 @@ img[class="aboutpageimage"] {
     width: 40%;
     height: auto;
 }
+ul[class="fieldworklist"] {
+    list-style-type: none;
+    margin-left: 20px;
+    text-indent: -40px;
+}
+li[class="lechaion"] {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+}
+li[class="knossos"] {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+}
+li[class="comingst"] {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+}
+li[class="stobi"] {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+}
+img[class="fieldworkimageone"] {
+    float: center;
+    margin-left: 20px;
+    width: 40%;
+    height: auto;
+    margin-top: 10px;
+}
+img[class="fieldworkimagetwo"] {
+    float: center;
+    margin-left: 20px;
+    width: 40%;
+    height: auto;
+    margin-top: 10px;
+}
+img[class="fieldworkimagethree"] {
+    float: center;
+    margin-left: 20px;
+    width: 40%;
+    height: auto;
+    margin-top: 10px;
+}
+img[class="fieldworkimagefour"] {
+    float: center;
+    margin-left: 20px;
+    width: 40%;
+    height: auto;
+    margin-top: 10px;
+}
+img[class="fieldworkimagefive"] {
+    float: center;
+    margin-left: 20px;
+    width: 40%;
+    height: auto;
+    margin-top: 10px;
+}
 ul[class="readinglist"] {
     list-style-type: none;
     margin-left: 20px;
