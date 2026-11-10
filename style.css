@@ -55,3 +55,8 @@ img[class="aboutpageimage"] {
     width: 40%;
     height: auto;
 }
+ul[class="readinglist"] {
+    list-style-type: none;
+    margin-left: 20px;
+    text-indent: -40px;
+}
