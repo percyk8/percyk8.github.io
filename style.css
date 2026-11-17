@@ -2,6 +2,16 @@
     color: antiqueWhite;
     font-family: 'OpenDyslexic', sans-serif;
 }
+a:link {
+    color: antiqueWhite;
+    text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+    color:goldenrod;
+    font-size:larger;
+}
 html {
     background-color: black;
 }
@@ -13,6 +23,7 @@ nav {
     gap: 30px;
     display: flex;
     justify-content: center;
+    text-decoration: underline;
 }
 body {
     max-width: 900px;
@@ -21,11 +32,16 @@ body {
     padding: 30px;
     font-size: 20px;
 }
+footer {
+    margin-top: 20px;
+    border-top: 3px solid antiqueWhite;
+}
 p {
     margin-bottom: 1em;
 }
 h1 {
     margin-bottom: 0.5em;
+    font-weight: normal;
 }
 h2 {
     text-decoration: overline;
